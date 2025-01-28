@@ -1,0 +1,7 @@
+.\!whitespace-pre {
+    white-space: pre-wrap !important;
+    word-break: break-all!important;
+}
+.sticky{
+  display: none!important;
+}
