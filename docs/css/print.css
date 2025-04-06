@@ -5,3 +5,7 @@
 .sticky{
   display: none!important;
 }
+
+.overflow-y-auto {
+    overflow-y: initial;
+}
